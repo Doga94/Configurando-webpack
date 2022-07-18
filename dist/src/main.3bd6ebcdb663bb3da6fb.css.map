@@ -1,0 +1,1 @@
+{"version":3,"file":"src/main.3bd6ebcdb663bb3da6fb.css","mappings":";;;AAAA;EACI,SAAQ;EACR,UAAS;AACb;AAEA;EACI,gBAAY;AAAhB","sources":["webpack://pagina-personal/./src/styles/main.css"],"sourcesContent":["* body {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nh1{\r\n    background: blue;\r\n}"],"names":[],"sourceRoot":""}
